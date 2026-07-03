@@ -3,6 +3,14 @@
 ## Overview
 Developed an interactive Excel dashboard to analyze customer demographics and factors influencing bike purchases.
 
+## Dashboard Preview
+
+### Main Dashboard
+![Dashboard](dashboard_screenshot.png)
+
+### Pivot Tables
+![Pivot Tables](pivot_table_screenshot.png)
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -26,11 +34,3 @@ Developed an interactive Excel dashboard to analyze customer demographics and fa
 
 ## Skills Demonstrated
 Data Analysis, Data Visualization, Dashboard Development, Business Intelligence, Microsoft Excel
-
-## Dashboard Preview
-
-### Main Dashboard
-![Dashboard](dashboard_screenshot.png)
-
-### Pivot Tables
-![Pivot Tables](pivot_table_screenshot.png)
