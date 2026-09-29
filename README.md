@@ -1,4 +1,4 @@
-# Bike Sales Analysis Dashboard
+# Bike Sales Analysis
 
 ## Overview
 Developed an interactive Excel dashboard to analyze customer demographics and factors influencing bike purchases.
@@ -6,10 +6,10 @@ Developed an interactive Excel dashboard to analyze customer demographics and fa
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](bike_sales_dashboard.png)
 
 ### Pivot Tables
-![Pivot Tables](pivot_table_screenshot.png)
+![Pivot Tables](bike_sales_pivot_tables.png)
 
 ## Tools Used
 - Microsoft Excel
